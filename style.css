@@ -82,4 +82,8 @@ main section{
     margin-top: 2rem;
     margin-bottom: 2rem;
 }
-.main-text .content
+.main-text .content {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
